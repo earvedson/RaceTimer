@@ -1,0 +1,8 @@
+{
+  "name": "RaceTimer",
+  "version": "0.0.1",
+  "description": "RaceTimer server app",
+  "dependencies": {
+    "express": "^4.8.5"
+  }
+}
