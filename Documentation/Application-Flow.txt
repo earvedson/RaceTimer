@@ -1,0 +1,17 @@
+
+When starting the app, choose
+1. Start new race
+1.1 Name the race, or possibly get assigned a name, like a famous athlete
+1.2 Create a passkey for the race
+
+2. Join existing race
+2.1 Enter name of the race, possibly choose from a list of names
+2.2 Enter the race passkey
+
+Think about:
+- Should there be a pairing procedure, where the race creating device must approve every following device?
+
+Roadmap
+- split times with additinal devices
+- lap times with the same device
+
